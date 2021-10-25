@@ -8,7 +8,7 @@ body {
   align-items: center;
 }
 
-.form-container {
+.container {
   width: 360px;
   background-color: white;
   margin: auto;
@@ -24,14 +24,14 @@ h1 {
   text-align: center;
 }
 
-.register-form {
+.registerForm {
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
   padding: 10px;
 }
 
-.success-message {
+.successMessage {
   font-family: "Roboto", sans-serif;
   background-color: #3f89f8;
   padding: 15px;
